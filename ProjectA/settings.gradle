@@ -1,0 +1,4 @@
+rootProject.name = 'ProjectA'
+
+include ":ProjectB"
+project(":ProjectB").projectDir = new File(settingsDir, '../ProjectB')
