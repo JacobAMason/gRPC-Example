@@ -1,4 +1,6 @@
-import com.example.projectB.GreetingServiceGrpc;
+import com.example.projectb.GreetingServiceGrpc;
+import com.example.projectb.HelloRequest;
+import com.example.projectb.HelloResponse;
 
 /**
  * Created by JacobAMason on 7/15/18.
